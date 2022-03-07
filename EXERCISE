@@ -1,0 +1,11 @@
+Completare il dockerfile
+
+
+Buildare immagine docker build -t [dockerid]/[nome_img] .
+
+
+Lanciare l’immagine (docker run -p 3000:3000 [nome_immagine_completo])
+
+
+Pushare l’immagine sul vostro dockerhub
+docker push
